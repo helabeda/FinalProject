@@ -1,0 +1,9 @@
+export const LOADING_EVENT="LOADING_EVENT";
+export const ADD_SUCCESS="ADD_SUCCESS";
+export const ADD_FAIL="ADD_FAIL";
+export const EDIT_SUCCESS = "EDIT_SUCCESS";
+export const EDIT_FAIL="EDIT_FAIL";
+export const GET_SUCCESS = "GET_SUCCESS";
+export const GET_FAIL = "GET_FAIL";
+export const GET_ALL_SUCCESS = "GET_ALL_SUCCESS";
+export const GET_ALL_FAIL = "GET_ALL_FAIL";
